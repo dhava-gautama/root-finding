@@ -1,0 +1,2 @@
+# pertama
+Ini repo pertama
